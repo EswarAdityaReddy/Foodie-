@@ -15,7 +15,7 @@
 
 - **TypeScript** – Strongly typed JavaScript for scalable code
 - **Tailwind CSS** – Utility-first CSS framework for modern UI
-- **[Optional: React / Next.js / Vite]** – (If used, mention the specific framework)
+- **React / Next.js / Vite** – 
 
 ## 📸 Screenshots
 
