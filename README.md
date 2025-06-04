@@ -1,4 +1,4 @@
-# 🍽️ Foodie – Zomato-Style Frontend Web App
+# 🍽️ Foodie Frontend Web App
 
 **Foodie** is a modern frontend application designed to replicate the core UI features of Zomato. Built using **TypeScript** and **Tailwind CSS**, it provides a sleek and responsive interface for discovering restaurants, browsing food categories, and simulating a food delivery platform experience.
 
