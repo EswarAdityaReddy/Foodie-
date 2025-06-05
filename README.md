@@ -31,3 +31,42 @@
 ├── tailwind.config.js
 ├── tsconfig.json
 └── index.html
+
+
+🚦 Getting Started
+1. Clone the repository
+bash
+Copy
+Edit
+git clone https://github.com/your-username/foodie.git
+cd foodie
+2. Install dependencies
+bash
+Copy
+Edit
+npm install
+3. Run the app locally
+bash
+Copy
+Edit
+npm run dev
+📦 Build for Production
+bash
+Copy
+Edit
+npm run build
+🔗 Live Demo
+Deployed Link (Optional)
+
+🤝 Contributing
+Contributions are welcome! Feel free to fork the repository, open issues, and submit pull requests.
+
+📄 License
+This project is licensed under the MIT License.
+
+🙌 Acknowledgments
+UI inspired by Zomato
+
+Developed to showcase frontend skills with TypeScript and TailwindCSS
+
+
