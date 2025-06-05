@@ -17,9 +17,6 @@
 - **Tailwind CSS** – Utility-first CSS framework for modern UI
 - **React / Next.js / Vite** – 
 
-## 📸 Screenshots
-
-C:\Users\Aditya Reddy\Documents\Project\Demo Images
 
 ## 📁 Project Structure
 
