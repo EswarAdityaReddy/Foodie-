@@ -19,10 +19,7 @@
 
 ## 📸 Screenshots
 
-> *(Add screenshots to your `screenshots/` folder and link them here)*
-
-![Home Page](./screenshots/homepage.png)
-![Mobile View](./screenshots/mobile.png)
+C:\Users\Aditya Reddy\Documents\Project\Demo Images
 
 ## 📁 Project Structure
 
